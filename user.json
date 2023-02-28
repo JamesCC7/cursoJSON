@@ -1,0 +1,38 @@
+{
+    "name": "Jaime",
+    "lastname": "Cepeda",
+    "age": 20,
+    "nickname": "james",
+    "hobbies": [
+        "run",
+        "code",
+        "eat"
+    ],
+    "address": {
+        "street": "123 Main st",
+        "city": "New York"
+    },
+    "married": "false",
+    "friends": [
+        {
+            "name": "Juan",
+            "nickname": "fazt"
+        },
+        {
+            "name": "Carlos",
+            "nickname": "jesus123"
+        },
+        {
+            "name": "Ana",
+            "nickname": "maria24"
+        },
+        {
+            "name": "Lucas",
+            "nickname": "luis123"
+        },
+        {
+            "name": "Pedro",
+            "nickname": "oscar12"
+        }
+    ]
+}
